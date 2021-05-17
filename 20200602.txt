@@ -1,0 +1,8 @@
+
+ 
+记录时间：2020-06-02 07:42:14,259 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类： property: [(null)] - 
+错误描述：[ShellApplication] - Main() - Set U8Smartdownload catch exception 未将对象引用设置到对象的实例。
+ 
