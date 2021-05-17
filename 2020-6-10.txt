@@ -1,0 +1,27 @@
+updater-log: pid: 2884  17:16:53:727 D:\Program Files (x86)\DingDing\	release https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_updater/Release/DingTalkUpdate_v5.1.5.1.zip 4aeb3994ec67210406fb2e91cd1c32b6 0 true current_new zh_CN check_last	=======================操作成功完成。
+updater-log: pid: 2884  17:16:53:794 Updater going: 	need block	-----------3-----------操作成功完成。
+updater-log: pid: 2884  17:16:53:829 create window: 		start操作成功完成。
+updater-log: pid: 2884  17:16:59:684 create window: 		end操作成功完成。
+updater-log: pid: 2884  17:16:59:695 IsDiskFull		Disk info: system_free[C:]:175425MB, system_benchmark:650MB; install_free[D:]:207430MB, install_benchmark::455MB  操作成功完成。
+updater-log: pid: 2884  17:16:59:717 setStatus 	正在下载升级包	info 操作成功完成。
+updater-log: pid: 2884  17:17:55:633 https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_updater/Release/DingTalkUpdate_v5.1.5.1.zip		MD5 right操作成功完成。
+updater-log: pid: 2884  17:17:56:197 setStatus 	正在解压升级包...	info 操作成功完成。
+updater-log: pid: 2884  17:18:0:761 C:\Users\ADMINI~1\AppData\Local\Temp\DingTalkUpdate_v5.1.5.1.zip	C:\Users\ADMINI~1\AppData\Local\Temp\DingTalkUpdate_v5.1.5.1	unzip file succeed操作成功完成。
+updater-log: pid: 2884  17:18:0:801 setStatus 	初始化	info 操作成功完成。
+updater-log: pid: 2884  17:18:0:803 D:\Program Files (x86)\DingDing\main\current		clean Directory succeed系统找不到指定的文件。
+updater-log: pid: 2884  17:18:0:820 setStatus 	升级中	info 操作成功完成。
+updater-log: pid: 2884  17:18:5:728 Updater: 	current	CopyFiles: succeed, Start Check Updated Dir没有更多文件。
+updater-log: pid: 2884  17:18:7:466 CheckFilesIsOk	"D:\Program Files (x86)\DingDing\main\current\DingTalkCheck.exe" -check_dingding_packages -package_dir "D:\Program Files (x86)\DingDing\main\current" -need_reg	CreateProcess Code: 1操作成功完成。
+updater-log: pid: 2884  17:18:7:467 Updater: 	current	CheckFiles: succeed操作成功完成。
+updater-log: pid: 2884  17:18:7:468 	current	set update dir ok试图将文件指针移到文件开头之前。
+updater-log: pid: 2884  17:18:10:318 GrantPermissionImpl		GrantPermissionImpl for [D:\Program Files (x86)\DingDing] succeed试图引用不存在的令牌。
+updater-log: pid: 2884  17:18:10:321 GrantPermissionImpl		GrantPermissionImpl for [CLASSES_ROOT\dingtalk] succeed试图引用不存在的令牌。
+updater-log: pid: 2884  17:18:10:323 GrantPermissionImpl		GrantPermissionImpl for [CLASSES_ROOT\dingtalkscheme] succeed试图引用不存在的令牌。
+updater-log: pid: 2884  17:18:10:323 setStatus 	升级成功，正在唤起钉钉	info 操作成功完成。
+updater-log: pid: 2884  17:18:10:439 Updater end!		-----------6-----------操作成功完成。
+updater-log: pid: 11420  17:31:52:363 D:\Program Files (x86)\DingDing\	-check_self_packages	=check_self_packages=操作成功完成。
+updater-log: pid: 11420  17:31:52:473 CheckFilesIsOk		check_self_packages start操作成功完成。
+updater-log: pid: 11420  17:31:53:909 CheckFilesIsOk	"D:\Program Files (x86)\DingDing\main\current\DingTalkCheck.exe" -check_dingding_packages -package_dir "D:\Program Files (x86)\DingDing\main\current" -need_reg	CreateProcess Code: 1操作成功完成。
+updater-log: pid: 11420  17:31:53:910 CheckFilesIsOk	suc	=check_self_packages=操作成功完成。
+updater-log: pid: 11420  17:31:53:911 CheckFilesIsOk		check_self_packages end操作成功完成。
+updater-log: pid: 11420  17:31:53:912 check_self_packages		-------quit-----操作成功完成。
